@@ -1,0 +1,20 @@
+*{margin:0;
+ padding:0px;
+ box-sizing:border-box;}
+ 
+.container{ width:25%;
+			text-align:center;
+			margin:30%;
+			}
+			
+img{width:100px;
+	border:2px solid white;
+box-shadow:0 0 3px black;}
+
+.col img{border-radius:50px 50px 50px 50px;}
+
+.head{padding:10px;}
+
+#chief{color:#bdbab1;
+	font-style:italic;
+	padding:10px;}
